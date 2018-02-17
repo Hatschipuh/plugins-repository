@@ -1,0 +1,17 @@
+{
+ "plugin-data":
+ {
+  "name": "Logo and Footer XXL V1.0 02/18",
+  "description": "Insert a logo. Insert a Footer on Top with many setups e.g. 'scroll on top'"
+ } ,
+	"bezeichnung_hochscrollen": "name 'scroll on top'",
+	"bezeichnung_beschreibung": "Text for visiters e.g. -scroll on top; HTML e.g. HTML img is ok!",
+	"bezeichnung_logo": "Logo URL",
+	"bezeichnung_logo_beschreibung": "Upload Logo Image in Upload Directory and write the filename: ",
+	"logo_on": "On/Off",
+    "bezeichnung_fusszeile": "Footer",
+    "bezeichnung_hochscrollen_farbe": "Textbackgroundcolor -scroll on top- (emtpy=transparent)",
+    "bezeichnung_hochscrollen_farbe_beschreibung": "Color e.g. yellow, green,... or html colors",
+    "fusszeile_farbe": "Footer backgroundcolor (empty=transparent)",
+    "eigene_fusszeile": "Your Footer"
+}

@@ -1,0 +1,17 @@
+{
+ "plugin-data":
+ {
+  "name": "Logo und Fusszeile XXL V1.0 02/18",
+  "description": "Fügt eigenes Logo ein. Fügt eine dauerhaft sichtbare Fusszeile ein mit diversen Einstellungsmöglichkeiten z.B. 'nach oben scrollen' "
+ } ,
+	"bezeichnung_hochscrollen": "Bezeichnung 'nach oben scrollen'",
+	"bezeichnung_beschreibung": "Text den der Besucher sieht z.B. -nach oben scrollen-; HTML z.B. img erlaubt!",
+	"bezeichnung_logo": "Logo URL",
+	"bezeichnung_logo_beschreibung": "Logo in den Upload Ordner hinzufügen und Dateiname angeben: ",
+	"logo_on": "Ein/Aus",
+    "bezeichnung_fusszeile": "Fusszeile",
+    "bezeichnung_hochscrollen_farbe": "Texthintergrundfarbe von -nach oben scrollen- (Leer=Transparent)",
+    "bezeichnung_hochscrollen_farbe_beschreibung": "Farbe z. B. yellow, green,... oder auch html Farben",
+    "fusszeile_farbe": "Fusszeile Hintergrundfarbe (Leer=Transparent)",
+    "eigene_fusszeile": "Eigene Fusszeile"
+}
